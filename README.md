@@ -12,3 +12,4 @@
 - `python hmm.py` để chạy chương trình
 
 4. Link video
+ https://youtu.be/vlaN22IbV8E
